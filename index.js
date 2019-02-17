@@ -61,6 +61,7 @@ function removeFromCart(item) {
     }
 
     }
+    return `
   }
   
 
